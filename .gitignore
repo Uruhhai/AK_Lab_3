@@ -1,0 +1,6 @@
+*.ext4
+*zImage
+mnt_rootfs/
+mnt_check/
+*.log
+.DS_Store
